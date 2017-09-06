@@ -5,9 +5,10 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.CardGames PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src\SnapGame.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PROJECT1 Status">
     <Files>
       <File FileName="src\SnapGame.cs" Line="40" Column="20" />
+      <File FileName="PROJECT1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>
