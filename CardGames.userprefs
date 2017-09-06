@@ -7,7 +7,7 @@
   <MonoDevelop.Ide.ItemProperties.CardGames PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PROJECT1 Status">
     <Files>
-      <File FileName="src\SnapGame.cs" Line="40" Column="20" />
+      <File FileName="src\SnapGame.cs" Line="38" Column="45" />
       <File FileName="PROJECT1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
