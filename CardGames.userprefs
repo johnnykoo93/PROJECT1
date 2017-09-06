@@ -13,7 +13,11 @@
       <File FileName="PROJECT1 Status" />
 =======
       <File FileName="src\SnapGame.cs" Line="42" Column="5" />
+<<<<<<< HEAD
 >>>>>>> bca0d8a... First Conmit
+=======
+      <File FileName="PROJECT1 Status" />
+>>>>>>> 885112d... First Conmit
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
