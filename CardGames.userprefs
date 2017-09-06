@@ -5,7 +5,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.CardGames PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PROJECT1 Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\SnapGame.cs">
     <Files>
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19,9 +19,12 @@
 =======
 =======
       <File FileName="src\SnapGame.cs" Line="38" Column="3" />
+<<<<<<< HEAD
 >>>>>>> 2551534... ger
       <File FileName="PROJECT1 Status" />
 >>>>>>> 885112d... First Conmit
+=======
+>>>>>>> edd5deb... test
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
