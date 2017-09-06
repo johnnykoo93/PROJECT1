@@ -8,6 +8,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="PROJECT1 Status">
     <Files>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <File FileName="src\SnapGame.cs" Line="46" Column="74" />
       <File FileName="src\GameLogic\Snap.cs" Line="123" Column="16" />
       <File FileName="PROJECT1 Status" />
@@ -16,6 +17,9 @@
 <<<<<<< HEAD
 >>>>>>> bca0d8a... First Conmit
 =======
+=======
+      <File FileName="src\SnapGame.cs" Line="38" Column="3" />
+>>>>>>> 2551534... ger
       <File FileName="PROJECT1 Status" />
 >>>>>>> 885112d... First Conmit
     </Files>

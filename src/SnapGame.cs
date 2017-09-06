@@ -39,8 +39,12 @@ namespace CardGames
 
 =======
 			SwinGame.ClearScreen(Color.White);
+<<<<<<< HEAD
 			gfhf
 >>>>>>> 4abc599... trgh
+=======
+		
+>>>>>>> 2551534... ger
 			// Draw the top card
 			Card top = myGame.TopCard;
 			if (top != null)
